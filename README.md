@@ -1,2 +1,2 @@
 # Samsung-OneUI
-Bloatware list for Samsung devices with OneUI 7+
+Bloatware list for Samsung devices with OneUI
